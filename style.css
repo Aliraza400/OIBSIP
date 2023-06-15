@@ -53,6 +53,10 @@
     padding: 10px 20px;
 }
 
+.menu a:hover{
+    color: #E67E22;
+}
+
 .menu a:active{
     color: white;
     background-color: #E67E22;
